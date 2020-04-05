@@ -1,0 +1,5 @@
+Hey- just tested your code (working on Windows) - works great. I am no coder, but have installed and it runs fine. Quick questions 
+1) Its now only checking for Group-1 which is 1hr fixed. Would like to include Group-4 which is the flexible slot. 
+2) Instead of send notification - book the earliest one available and send email to confirm?
+
+How to do this?
